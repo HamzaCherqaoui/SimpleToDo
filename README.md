@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 
 * [ x] User can **view a list of todo items**
 * [ x] User can **successfully add and remove items** from the todo list
-* [ x] User's **list of items persisted** upon modification and and retrieved properly on app restart
+* [ x] User's **list of items persisted** upon modification and retrieved properly on app restart
 
 The following **optional** features are implemented:
 
@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+N/A
 
 ## License
 
